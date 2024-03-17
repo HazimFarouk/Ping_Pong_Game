@@ -25,10 +25,6 @@ score of each player in real-time.
 3. **Upload**: Upload the compiled code to your microcontroller.
 4. **Play**: Power on the setup and start playing! Use the external interrupts to control player movement and watch the game unfold on the LCD display.
 
-## Schematic:
-
-![Schematic]("C:\Users\dell\OneDrive\Pictures\Screenshots\Screenshot 2024-03-18 005814.png")
-
 
 ## Requirements:
 
