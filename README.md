@@ -27,7 +27,7 @@ score of each player in real-time.
 
 ## Schematic:
 
-![Schematic](C:\Users\dell\OneDrive\Pictures\Screenshots\Screenshot 2024-03-18 005814.png)
+![Schematic]("C:\Users\dell\OneDrive\Pictures\Screenshots\Screenshot 2024-03-18 005814.png")
 
 
 ## Requirements:
